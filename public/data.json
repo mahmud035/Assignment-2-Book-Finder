@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Snowflake: The Definitive Guide",
+    "author": "Joyce Avila",
+    "publishYear": 2022,
+    "price": "$58.90",
+    "image": "https://itbook.store/img/books/9781098103828.png",
+    "isFavorite": false
+  },
+  {
+    "id": 2,
+    "title": "Python for Data Analysis",
+    "author": "Wes McKinney",
+    "publishYear": 2011,
+    "price": "$36.18",
+    "image": "https://itbook.store/img/books/9781098104030.png",
+    "isFavorite": true
+  },
+  {
+    "id": 3,
+    "title": "Reliable Machine Learning",
+    "author": "Cathy Chen",
+    "publishYear": 2021,
+    "price": "$43.99",
+    "image": "https://itbook.store/img/books/9781098106225.png",
+    "isFavorite": false
+  },
+  {
+    "id": 4,
+    "title": "Learning Microsoft Power BI",
+    "author": "Jeremey Arnold",
+    "publishYear": 2022,
+    "price": "$40.46",
+    "image": "https://itbook.store/img/books/9781098112844.png",
+    "isFavorite": true
+  },
+  {
+    "id": 5,
+    "title": "C++ Software Design",
+    "author": "Klaus Iglberger",
+    "publishYear": 2022,
+    "price": "$47.03",
+    "image": "https://itbook.store/img/books/9781098113162.png",
+    "isFavorite": true
+  },
+  {
+    "id": 6,
+    "title": "Flutter and Dart Cookbook",
+    "author": "Richard Rose",
+    "publishYear": 2022,
+    "price": "$50.52",
+    "image": "https://itbook.store/img/books/9781098119515.png",
+    "isFavorite": false
+  },
+  {
+    "id": 7,
+    "title": "Python Data Science Handbook",
+    "author": "Jacob T. VandarPals",
+    "publishYear": 2016,
+    "price": "$56.16",
+    "image": "https://itbook.store/img/books/9781098121228.png",
+    "isFavorite": false
+  },
+  {
+    "id": 8,
+    "title": "Raspberry Pi Cookbook",
+    "author": "Simon Monk",
+    "publishYear": 2021,
+    "price": "$14.99",
+    "image": "https://itbook.store/img/books/9781098130923.png",
+    "isFavorite": false
+  }
+]
