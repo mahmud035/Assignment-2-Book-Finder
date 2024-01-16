@@ -8,7 +8,7 @@ const SearchBook = ({ handleSearchBook }) => {
             type="search"
             id="search-dropdown"
             className="z-20 block w-full bg-white px-4 py-2.5 pr-10 text-[#1C4336] placeholder:text-[#1C4336] focus:outline-none"
-            placeholder="Search Book"
+            placeholder="Search Book By Name"
             required
           />
           <div className="absolute top-0 right-0 flex items-center h-full">
